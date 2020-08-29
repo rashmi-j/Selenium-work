@@ -1,0 +1,10 @@
+.idea/
+.target/
+/target/
+/test-output
+/.settings
+/.project
+/.classpath
+/SeleniumUI.iml
+*.DS_Store
+.factorypath
