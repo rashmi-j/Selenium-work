@@ -57,7 +57,7 @@ public class Homepage {
     }*/
 
 
-    //Methods when we use page object factory
+    //Methods incase we use page object factory
     public WebElement emailid()
     {
         return username;
